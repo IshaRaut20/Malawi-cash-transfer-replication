@@ -79,6 +79,7 @@ malawi-cash-transfer-replication/
 │   └── table2_marriage.rtf   ← Regression output table
 
 └── report/
+
 └── Malawi_Replication.pdf ← Full paper
 ---
 
