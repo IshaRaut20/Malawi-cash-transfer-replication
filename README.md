@@ -70,10 +70,14 @@ Effect sizes differ due to: a smaller replication sample sizes, differences in a
 
 ## Files
 malawi-cash-transfer-replication/
+
 ├── code/
+
 │   └── replication.do        ← Stata do-file
+
 ├── output/
 │   └── table2_marriage.rtf   ← Regression output table
+
 └── report/
 └── Malawi_Replication.pdf ← Full paper
 ---
